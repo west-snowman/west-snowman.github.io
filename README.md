@@ -5,3 +5,12 @@
 ## 興趣: 玩遊戲 看動漫 看漫畫
 ### 雪初音
 ![雪初音](https://snowmiku.com/2020/images/info/snowmiku/main_visual.jpg)
+
+ˋˋˋC
+#include <stdio.h>
+int main()
+{
+printf("hello world");
+
+}
+ˋˋˋ
